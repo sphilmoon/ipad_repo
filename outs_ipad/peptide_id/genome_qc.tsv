@@ -1,0 +1,5 @@
+label	source_file	n_records	total_bp	gc_fraction	n_fraction
+abm4	/home/smoon/genome/inputs/ref/abm4_genome.fasta	1	1998189	0.2904	0.00000
+d5	/home/smoon/genome/inputs/ref/d5_genome.fasta	1	2791697	0.3313	0.00001
+m1	/home/smoon/genome/inputs/ref/m1_genome.fasta	1	2937203	0.3264	0.00000
+sm9	/home/smoon/genome/inputs/ref/sm9_genome.fasta	1	2543538	0.3181	0.00000
